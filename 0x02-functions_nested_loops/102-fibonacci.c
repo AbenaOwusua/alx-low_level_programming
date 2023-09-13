@@ -16,7 +16,7 @@ int main(void)
 		printf("%lu", num2);
 		next = num1 + num2;
 		num1 = num2;
-		num2 - next;
+		num2 = next;
 		if (a != 49)
 			printf(", ");
 	}
